@@ -1,25 +1,24 @@
-## I'm Eduardo 👋
+## Hi, I'm Eduardo <img src="https://media.tenor.com/MOV7nMdDCAQAAAAi/minecraft.gif" width="40" height="40">
 
-Computer Science student at Tecnológico de Monterrey 💻
-
-I currently mostly work on backend - FastAPI, NodeJS
+CS student @ Tecnológico de Monterrey 💻  
+Focused mainly on backend development.
 
 ---
 
-## Languages
+## Tech Stack
 
+### Languages
 - Python
 - JavaScript
 - C/C++
 
-## Tools and Frameworks
-
+### Frameworks & Tools
 - React, EJS
-- FastAPI, NodeJS
+- FastAPI, Node.js
 
-## Databases
-
+### Databases
 - MySQL
 - SQLite
+- Postgres
 - MongoDB
 - Supabase
