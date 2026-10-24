@@ -3,9 +3,14 @@
 </h1>
 
 <p align="center">
-  CS @ ITESM<br>
-  i like to build apis.
+  <img src="https://media.tenor.com/MOV7nMdDCAQAAAAi/minecraft.gif" width="60" height="60" alt="minecraft gif">
 </p>
+
+<p align="center">
+  CS @ ITESM<br>
+  Don’t know it yet? I build it anyway.
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardo-hdez&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
@@ -51,7 +56,7 @@
 
 ---
 
-## Let's connect
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-hdeza/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo_hdza@outlook.com)
