@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/MOV7nMdDCAQAAAAi/minecraft.gif" width="60" height="60" alt="minecraft gif">
-</p>
-
-<p align="center">
   CS @ ITESM<br>
   Don’t know it yet? I build it anyway.
 </p>
