@@ -6,6 +6,9 @@
   CS @ ITESM<br>
   i like to build apis.
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardo-hdez&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+</p>
 
 ---
 
