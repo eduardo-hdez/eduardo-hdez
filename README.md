@@ -4,7 +4,7 @@
 
 <p align="center">
   CS @ ITESM<br>
-  Don’t know it yet? I build it anyway.
+  don’t know it yet? i build it anyway.
 </p>
 
 <p align="center">
